@@ -1,0 +1,2307 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.3 eb200aeb",
+  "osm3s": {
+    "timestamp_osm_base": "2020-07-03T09:07:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 25236152,
+  "lat": 49.0014294,
+  "lon": 8.4082143,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "43",
+    "addr:postcode": "76137",
+    "addr:street": "Marienstraße",
+    "amenity": "pharmacy",
+    "name": "Marienapotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00, 14:30-18:30; Sa 08:30-13:00",
+    "phone": "+49 721 389325",
+    "toilets:wheelchair": "no",
+    "website": "http://www.marienapo.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 25236155,
+  "lat": 49.0076203,
+  "lon": 8.4104187,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "27a",
+    "addr:postcode": "76131",
+    "addr:street": "Markgrafenstraße",
+    "amenity": "pharmacy",
+    "name": "Johannes-Apotheke",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 25236157,
+  "lat": 48.9983723,
+  "lon": 8.3904036,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "29",
+    "addr:postcode": "76137",
+    "addr:street": "Südendstraße",
+    "amenity": "pharmacy",
+    "contact:email": "hartmann@diespitzwegapotheke.de",
+    "contact:fax": "+49 721 818145",
+    "contact:phone": "+49 721 818145",
+    "contact:website": "http://www.diespitzwegapotheke.de",
+    "dispensing": "yes",
+    "name": "Spitzwegapotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00, 15:00-18:30, Sa 09:00-13:00, Ph off",
+    "operator": "Michael Hartmann",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 25236165,
+  "lat": 48.9984090,
+  "lon": 8.3863377,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "OK Apotheke am ZKM",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-18:00; PH off",
+    "phone": "+49 721 811218",
+    "website": "https://www.ok-apotheke-karlsruhe.de/ok-apotheke-am-zkm/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 25313739,
+  "lat": 49.0419057,
+  "lon": 8.4432292,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "16b",
+    "addr:postcode": "76139",
+    "addr:street": "Elbinger Straße",
+    "addr:suburb": "Waldstadt",
+    "amenity": "pharmacy",
+    "fax": "+49 721 9683815",
+    "name": "Helena-Apotheke",
+    "opening_hours": "Mo-Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00",
+    "operator": "Thomas Döring",
+    "phone": "+49 721 683477",
+    "website": "http://www.helena-apotheke.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 25346178,
+  "lat": 49.0519802,
+  "lon": 8.3955757,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "20",
+    "addr:postcode": "76149",
+    "addr:street": "Donauschwabenstraße",
+    "addr:subdistrict": "Kirchfeldsiedlung",
+    "addr:suburb": "Neureut",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 706239",
+    "contact:website": "http://www.kirchfeld-apotheke.de",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Kirchfeld-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 09:00-13:00"
+  }
+},
+{
+  "type": "node",
+  "id": 25346791,
+  "lat": 49.0149660,
+  "lon": 8.3852837,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 71060",
+    "email": "service@parkapotheke.org",
+    "entrance": "main",
+    "fax": "+49 721 9712999",
+    "lastcheck": "2017-01-26",
+    "name": "Park-Apotheke",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-13:00",
+    "website": "https://www.parkapotheke.org/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 25508399,
+  "lat": 48.9543027,
+  "lon": 8.5104784,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "baumann@bergles-apotheke.de",
+    "contact:fax": "+49 721 475042",
+    "contact:phone": "+49 721 9473620",
+    "contact:website": "http://www.bergles-apotheke.de/",
+    "name": "Bergles-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-12:30,15:00-18:00; We 08:30-12:30; Sa 09:00-12:30",
+    "operator": "Manfred Baumann",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 25642532,
+  "lat": 49.0045068,
+  "lon": 8.3324632,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "76189",
+    "addr:street": "Holländerstraße",
+    "amenity": "pharmacy",
+    "contact:email": "apotheke.kirchplatz@t-online.de",
+    "contact:phone": "+49 721 571984",
+    "contact:website": "http://www.apo-am-kirchplatz.de/",
+    "name": "Apotheke am Kirchplatz",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00",
+    "operator": "Sabine Heinicke",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 25642627,
+  "lat": 48.9961036,
+  "lon": 8.3355173,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "30",
+    "addr:postcode": "76189",
+    "addr:street": "Pappelallee",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 576640",
+    "name": "Paracelsus-Apotheke",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 25759801,
+  "lat": 49.0085267,
+  "lon": 8.4181703,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "76131",
+    "addr:street": "Durlacher Allee",
+    "amenity": "pharmacy",
+    "contact:email": "apothekeamdurlachertor@t-online.de",
+    "contact:fax": "+49 721 6288468",
+    "contact:phone": "+49 721 698623",
+    "contact:website": "http://www.apothekeamdurlachertor.de",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apotheke am Durlacher Tor",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 09:00-13:00; Su off",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 25932428,
+  "lat": 49.0102302,
+  "lon": 8.4245703,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "76131",
+    "addr:street": "Essenweinstraße",
+    "addr:suburb": "Oststadt",
+    "amenity": "pharmacy",
+    "contact:website": "http://www.ost-apotheke.eu/",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Ost-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00; Su,PH off",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26084506,
+  "lat": 49.0493448,
+  "lon": 8.3799632,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:postcode": "76149",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 9703111",
+    "contact:website": "http://www.hardt-apotheke.de",
+    "name": "Hardt-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 09:00-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26086664,
+  "lat": 49.0309974,
+  "lon": 8.3682182,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Stefanie Apotheke",
+    "opening_hours": "Mo-Tu 08:30-12:30,14:30-18:30; We 08:30-18:30; Th-Fr 08:30-12:30,14:30-18:30; Sa 08:30-12:30",
+    "opening_hours:covid19": "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:30; We 08:30-18:30; Sa 08:30-12:30",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 26128532,
+  "lat": 48.9859719,
+  "lon": 8.3586607,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Oberreut-Apotheke",
+    "opening_hours": "Mo 08:00-13:00,14:30-18:30; Tu 08:00-13:00,14:30-18:30; We 08:00-13:00,14:30-18:30; Th 08:00-13:00,14:30-18:30; Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00"
+  }
+},
+{
+  "type": "node",
+  "id": 26291929,
+  "lat": 49.0363453,
+  "lon": 8.4455428,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "76139",
+    "addr:street": "Lötzener Straße",
+    "addr:suburb": "Waldstadt",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Wildpark-Apotheke",
+    "opening_hours": "Mo-Fr 09:00-13:00,15:00-18:30, Sa 08:30-13:00",
+    "phone": "+49 721 9683044",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 26597003,
+  "lat": 48.9936653,
+  "lon": 8.3901560,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Sonnenapotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 07:30-18:30; We,Sa 08:30-13:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 29019792,
+  "lat": 49.0352472,
+  "lon": 8.2849473,
+  "tags": {
+    "addr:city": "Wörth am Rhein",
+    "addr:country": "DE",
+    "addr:housenumber": "3a",
+    "addr:postcode": "76744",
+    "addr:street": "Tullastraße",
+    "amenity": "pharmacy",
+    "name": "Tulla-Apotheke",
+    "opening_hours": "Mo-Fr 09:00-13:00, Mo-Tu,Th-Fr 14:00-18:00",
+    "phone": "+49-7271-41448",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 29901012,
+  "lat": 48.9763403,
+  "lon": 8.4074039,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Charlottenapotheke",
+    "opening_hours": "Mo-Sa 08:30-13:00, Mo-Fr 15:00-18:30",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 30023736,
+  "lat": 49.0074097,
+  "lon": 8.3896500,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "53",
+    "addr:postcode": "76133",
+    "addr:street": "Sophienstraße",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Leopold-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00, 14:30-18:30;Sa 09:00-13:00;PH off",
+    "operator": "Robert Schieber",
+    "phone": "+49 721 9211020",
+    "website": "https://www.leopold-apotheke-karlsruhe.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 30029837,
+  "lat": 49.0086987,
+  "lon": 8.3737284,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "29",
+    "addr:postcode": "76185",
+    "addr:street": "Yorckstraße",
+    "addr:suburb": "Weststadt",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Sofienapotheke",
+    "opening_hours": "Mo-Th 08:30-13:00,14:30-18:30; Fr 08:30-18:30; Sa 08:30-13:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 30055831,
+  "lat": 48.9710138,
+  "lon": 8.4062162,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "9",
+    "addr:postcode": "76199",
+    "addr:street": "Breisgaustraße",
+    "amenity": "pharmacy",
+    "contact:email": "rosen@apotheke-ulmer.de",
+    "contact:fax": "+49 721 881012",
+    "contact:phone": "+49 721 881027",
+    "contact:website": "http://www.rosen-apotheke-karlsruhe.de/",
+    "dispensing": "yes",
+    "name": "Rosenapotheke",
+    "opening_hours": "Mo-Sa 08:30-13:00, Mo-Fr 14:00-18:30, Ph off",
+    "operator": "Christiane Ulmer",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 32542680,
+  "lat": 48.9855661,
+  "lon": 8.3632267,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Kranichapotheke",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 33312670,
+  "lat": 48.9648103,
+  "lon": 8.4085954,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Heinrich-Heine-Apotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We,Sa 08:30-13:00; PH off",
+    "operator": "Cornelia Freumd eKfr.",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 34576952,
+  "lat": 48.9777296,
+  "lon": 8.4573636,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@schlossbergapotheke.de",
+    "contact:fax": "+49 721 9430719",
+    "contact:phone": "+49 721 491199",
+    "contact:website": "http://www.schlossbergapotheke.de/",
+    "name": "Schlossbergapotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:30-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 60247317,
+  "lat": 49.0474387,
+  "lon": 8.3800542,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:postcode": "76149",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 786770",
+    "contact:website": "http://www.holbein-apo.de/",
+    "dispensing": "yes",
+    "name": "Holbein-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 73930002,
+  "lat": 49.0467013,
+  "lon": 8.3794389,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "76149",
+    "addr:street": "Bärenweg",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 700090",
+    "contact:website": "http://www.apotheke-am-baerenweg.de/",
+    "name": "Apotheke am Bärenweg",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 89337113,
+  "lat": 49.0306909,
+  "lon": 8.3443646,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "50",
+    "addr:postcode": "76187",
+    "addr:street": "Reinmuthstraße",
+    "amenity": "pharmacy",
+    "contact:email": "info@merkur-apotheke-karlsruhe.de",
+    "contact:fax": "+49 721 9563310",
+    "contact:phone": "+49 721 567336",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Merkur Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00",
+    "operator": "Farnaz Jodari-Blaschke",
+    "website": "http://www.merkur-apotheke-karlsruhe.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 96039174,
+  "lat": 49.0094397,
+  "lon": 8.3952107,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "76133",
+    "addr:street": "Karlstraße",
+    "amenity": "pharmacy",
+    "email": "info@stadtapotheke.de",
+    "name": "Stadt-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:30; Sa 10:00-16:00",
+    "phone": "+49 721 203810",
+    "website": "https://www.stadtapotheke.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 118163290,
+  "lat": 48.9975939,
+  "lon": 8.4590253,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "76227",
+    "addr:street": "Raiherwiesenstraße",
+    "amenity": "pharmacy",
+    "contact:fax": "+49 721 9414151",
+    "contact:phone": "+49 721 401233",
+    "contact:website": "http://www.terrassen-apotheke-karlsruhe.de/",
+    "healthcare": "pharmacy",
+    "name": "Terrassen-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-18:30; We,Sa 08:30-13:00",
+    "operator": "Michael Hartmann",
+    "source": "extrapolation",
+    "website": "http://www.terrassen-apotheke-karlsruhe.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 135838501,
+  "lat": 49.0065546,
+  "lon": 8.3753382,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "19",
+    "addr:postcode": "76135",
+    "addr:street": "Gabelsbergerstraße",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Weinbrenner-Apotheke",
+    "opening_hours": "Mo-Sa 08:30-13:00, Mo,Tu,Th,Fr 15:00-18:30",
+    "operator": "Frau Liselotte Hetz, Sabine Matz",
+    "phone": "+49 721 842474",
+    "website": "https://weinbrenner-apotheke.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 248067289,
+  "lat": 49.0100929,
+  "lon": 8.3820186,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "1",
+    "addr:postcode": "76135",
+    "addr:street": "Scheffelstraße",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Residenz Apotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 08:30-13:00,15:00-18:30;We 08:30-13:00;Sa 08:30-12:30; PH closed",
+    "operator": "Gerhard Haaf",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 254717169,
+  "lat": 49.0590100,
+  "lon": 8.4679771,
+  "tags": {
+    "addr:city": "Stutensee",
+    "addr:country": "DE",
+    "addr:housenumber": "216 A",
+    "addr:postcode": "76297",
+    "addr:street": "Hauptstraße",
+    "addr:suburb": "Blankenloch",
+    "amenity": "pharmacy",
+    "name": "Stutensee-Apotheke",
+    "opening_hours": "Mo-Sa 08:30-13:00, Mo-Fr 15:00-19:00",
+    "operator": "Dr. Karl-Heinz Neubauer",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 254720573,
+  "lat": 49.0641328,
+  "lon": 8.4714158,
+  "tags": {
+    "addr:city": "Stutensee",
+    "addr:country": "DE",
+    "addr:housenumber": "109",
+    "addr:postcode": "76297",
+    "addr:street": "Hauptstraße",
+    "addr:suburb": "Blankenloch",
+    "amenity": "pharmacy",
+    "contact:email": "blumen-apotheke_stutensee@t-online.de",
+    "contact:fax": "+49 7244 91422",
+    "contact:phone": "+49 7244 93493",
+    "contact:website": "http://www.blumen-apotheke-stutensee.de/",
+    "dispensing": "yes",
+    "name": "Blumen-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-12:30; 14:30-19:00; Sa 08:30-13:00, Ph off",
+    "operator": "Ulrike Neubauer",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 258381384,
+  "lat": 49.0057449,
+  "lon": 8.4029772,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:place": "Ettlinger-Tor-Platz",
+    "addr:postcode": "76133",
+    "addr:street": "Ettlinger-Tor-Platz",
+    "amenity": "pharmacy",
+    "brand": "Guten Tag Apotheke",
+    "contact:email": "info@apotheke-ettlinger-tor.de",
+    "contact:fax": "+49 721 4646333",
+    "contact:phone": "+49 721 464630",
+    "contact:website": "http://www.apotheke-ettlinger-tor-karlsruhe.de/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Apotheke Ettlinger Tor",
+    "network": "ELAC Elysée Apotheken Consulting GmbH",
+    "opening_hours": "Mo-Sa 10:00-20:00; Th 10:00-22:00; Su off",
+    "operator": "Marco Messmer e.Kfm.",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 261618387,
+  "lat": 49.0174405,
+  "lon": 8.3675124,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "125",
+    "addr:postcode": "76185",
+    "addr:street": "Moltkestraße",
+    "amenity": "pharmacy",
+    "brand": "DPD",
+    "dispensing": "yes",
+    "emergency": "no",
+    "name": "Drais-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-13:00",
+    "payment:coins": "yes",
+    "payment:girocard": "yes",
+    "payment:mastercard": "no",
+    "payment:notes": "yes",
+    "payment:visa": "no",
+    "vending": "cigarettes"
+  }
+},
+{
+  "type": "node",
+  "id": 261898729,
+  "lat": 48.9996060,
+  "lon": 8.4792177,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "2a",
+    "addr:postcode": "76227",
+    "addr:street": "Bergbahnstraße",
+    "amenity": "pharmacy",
+    "contact:email": "info@bergbahn-apotheke.de",
+    "contact:phone": "+49 721 497576",
+    "contact:website": "http://www.bergbahn-apotheke.de/",
+    "lastcheck": "2016-04-12",
+    "name": "Bergbahn Apotheke",
+    "opening_hours": "Mo-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00",
+    "operator": "Bernd Jost",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 261963286,
+  "lat": 48.9993128,
+  "lon": 8.4707223,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "64",
+    "addr:postcode": "76227",
+    "addr:street": "Pfinztalstraße",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 401227",
+    "healthcare": "pharmacy",
+    "name": "Markgrafen Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:30,14:30-18:30; Sa 08:30-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 276503257,
+  "lat": 49.0085951,
+  "lon": 8.3953246,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "65",
+    "addr:postcode": "76133",
+    "addr:street": "Waldstraße",
+    "amenity": "pharmacy",
+    "contact:website": "http://www.apotheke-burgert.de",
+    "name": "Apotheke Burgert am Ludwigsplatz",
+    "network": "Linda Apotheken",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 10:00-16:00",
+    "wheelchair": "no",
+    "wheelchair:description": "Hohe Stufe am Eingang"
+  }
+},
+{
+  "type": "node",
+  "id": 276789807,
+  "lat": 49.0137436,
+  "lon": 8.4312548,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "38",
+    "addr:postcode": "76131",
+    "addr:street": "Haid-und-Neu-Straße",
+    "addr:suburb": "Oststadt",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Berthold-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-13:00",
+    "operator": "Alexa Fahrenholz",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 280310098,
+  "lat": 49.0040874,
+  "lon": 8.5271926,
+  "tags": {
+    "addr:city": "Pfinztal",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "76327",
+    "addr:street": "Brückstraße",
+    "amenity": "pharmacy",
+    "contact:fax": "+49 721 462330",
+    "contact:phone": "+49 721 460707",
+    "dispensing": "yes",
+    "name": "Bärenapotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-18:30; We,Sa 08:30-13:00",
+    "website": "http://www.apotheke-heim.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 311372536,
+  "lat": 49.0074906,
+  "lon": 8.3949963,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "29",
+    "addr:postcode": "76133",
+    "addr:street": "Karlstraße",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "apotheke 29",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 312916795,
+  "lat": 49.0061328,
+  "lon": 8.3782483,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "53",
+    "addr:postcode": "76135",
+    "addr:street": "Schillerstraße",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Margareten-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00, 15:00-18:30;Sa 09:00-13:00; PH closed",
+    "operator": "Hannelore Mosthaf e.K.",
+    "phone": "+49 721 845493",
+    "website": "http://www.margaretenapotheke-karlsruhe.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 312918349,
+  "lat": 49.0102135,
+  "lon": 8.3863091,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "76133",
+    "addr:street": "Kaiserallee",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Fächer-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; PH off",
+    "operator": "Inge Hartmann",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 380541229,
+  "lat": 48.9845999,
+  "lon": 8.4013402,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "7-9",
+    "addr:postcode": "76199",
+    "addr:street": "Nürnberger Straße",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 988570",
+    "contact:website": "http://www.gropius-apotheke.de/",
+    "name": "Gropius Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00; Mo-Fr 14:30-18:30; Sa 8:30-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 430499318,
+  "lat": 48.9970532,
+  "lon": 8.3938779,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "115",
+    "addr:postcode": "76137",
+    "addr:street": "Karlstraße",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 30650",
+    "contact:website": "http://www.ok-apotheke-karlsruhe.de/ok-apotheke-am-kolpingplatz/",
+    "name": "OK Apotheke am Kolpingplatz",
+    "network": "LINDA Apotheken",
+    "old_name": "Olympia Apotheke am Kolpingplatz",
+    "opening_hours": "Mo-Fr 08:00-19:30; Sa 08:30-14:00",
+    "operator": "Martin Winterwerber e.K.",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 430672843,
+  "lat": 48.9667884,
+  "lon": 8.3036497
+},
+{
+  "type": "node",
+  "id": 430672845,
+  "lat": 48.9668520,
+  "lon": 8.3035117
+},
+{
+  "type": "node",
+  "id": 430672846,
+  "lat": 48.9668201,
+  "lon": 8.3034237
+},
+{
+  "type": "node",
+  "id": 430672847,
+  "lat": 48.9667053,
+  "lon": 8.3035450
+},
+{
+  "type": "node",
+  "id": 520417414,
+  "lat": 49.0295179,
+  "lon": 8.4571366,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "26",
+    "addr:postcode": "76139",
+    "addr:street": "Karlsruher Straße",
+    "addr:suburb": "Hagsfeld",
+    "amenity": "pharmacy",
+    "contact:email": "info@baerenapotheke24.de",
+    "contact:fax": "+49 721 681149",
+    "contact:phone": "+49 721 684615",
+    "contact:website": "http://www.baerenapotheke-karlsruhe.de/",
+    "dispensing": "yes",
+    "name": "Bären-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:00-18:30; Sa 09:00-13:00",
+    "website": "https://www.baerenapotheke-karlsruhe.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 539729608,
+  "lat": 49.0111193,
+  "lon": 8.3613957,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "41",
+    "addr:postcode": "76185",
+    "addr:street": "Rheinstraße",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Rhein-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00;Sa 08:30-14:00",
+    "operator": "Dr. Beatrice Arker-Maertin e.K.",
+    "phone": "+49 721 9550260",
+    "website": "https://rhein-apotheke-karlsruhe.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 539729618,
+  "lat": 49.0115992,
+  "lon": 8.3649468,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "2",
+    "addr:postcode": "76185",
+    "addr:street": "Rheinstraße",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Drei-Linden-Apotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-19:00;We 08:00-18:30;Sa 09:00-14:00",
+    "operator": "Dr. Karl-Heinz Knobloch",
+    "phone": "+49 721 55 38 13",
+    "website": "https://www.drei-linden-apotheke.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 549465016,
+  "lat": 48.9655820,
+  "lon": 8.3012246
+},
+{
+  "type": "node",
+  "id": 549465019,
+  "lat": 48.9654493,
+  "lon": 8.3011960
+},
+{
+  "type": "node",
+  "id": 549465022,
+  "lat": 48.9655212,
+  "lon": 8.3013120
+},
+{
+  "type": "node",
+  "id": 549465026,
+  "lat": 48.9655101,
+  "lon": 8.3011086
+},
+{
+  "type": "node",
+  "id": 559069315,
+  "lat": 49.0364166,
+  "lon": 8.3518158,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "76187",
+    "addr:street": "Grünhutstraße",
+    "addr:suburb": "Knielingen",
+    "amenity": "pharmacy",
+    "contact:email": "karlsruhe-knielingen@easyapotheken.de",
+    "contact:fax": "+49 721 5704095-10",
+    "contact:phone": "+49 721 5704095-0",
+    "contact:website": "https://karlsruhe-knielingen.easyapotheken.de",
+    "dispensing": "yes",
+    "name": "easyApotheke",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su,PH off",
+    "operator": "Johanna Gemenetzi e.K."
+  }
+},
+{
+  "type": "node",
+  "id": 587114278,
+  "lat": 48.9983032,
+  "lon": 8.4637469,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "76227",
+    "addr:street": "An der RaumFabrik",
+    "amenity": "pharmacy",
+    "contact:email": "mail@eisbaerapotheke.de",
+    "contact:phone": "+49 721 89330880",
+    "contact:website": "http://www.eisbaerapotheke.de/",
+    "dispensing": "yes",
+    "name": "Eisbär Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-13:30",
+    "operator": "Sabine Bäumer",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 602264562,
+  "lat": 49.0075368,
+  "lon": 8.4956252,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "8",
+    "addr:postcode": "76229",
+    "addr:street": "Niddastraße",
+    "amenity": "pharmacy",
+    "contact:email": "rathaus-apotheke-groe@web.de",
+    "contact:phone": "+49 721 482044",
+    "contact:website": "http://www.offizin24.de/rathaus-apotheke-groetzingen/",
+    "name": "Rathaus-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 775332781,
+  "lat": 48.9759228,
+  "lon": 8.3138733,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@martinus-rheinstetten.de",
+    "contact:fax": "+49 721 51156",
+    "contact:phone": "+49 721 51155",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Martinus Apotheke",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:00-13:00",
+    "operator": "Marianne Heintzmann",
+    "surveillance": "indoor",
+    "website": "https://www.martinus-apotheke-rheinstetten.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Eingang stufenlos"
+  }
+},
+{
+  "type": "node",
+  "id": 987655374,
+  "lat": 49.0097879,
+  "lon": 8.3969812,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "201",
+    "addr:postcode": "76133",
+    "addr:street": "Kaiserstraße",
+    "amenity": "pharmacy",
+    "contact:email": "service@hof-apotheke-karlsruhe.de",
+    "contact:fax": "+49 721 23870",
+    "contact:phone": "+49 721 24591",
+    "contact:website": "http://www.hof-apotheke-karlsruhe.de/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "lastcheck": "2016-02-01",
+    "level": "0",
+    "name": "Hof-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 09:30-18:00, Ph off",
+    "operator": "Dr. Thomas Döring",
+    "payment:american_express": "yes",
+    "payment:coins": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:girocard": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 996110480,
+  "lat": 49.0097089,
+  "lon": 8.4043852,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "72",
+    "addr:postcode": "76133",
+    "addr:street": "Kaiserstraße",
+    "amenity": "pharmacy",
+    "contact:facebook": "https://www.facebook.com/LowenApothekeKarlsruheAmMarktplatz",
+    "dispensing": "yes",
+    "email": "info@loewen-apotheke-ka.de",
+    "fax": "+49 721 354097910",
+    "name": "Löwen-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-20:00;Sa 09:00-19:00;PH,Su off",
+    "opening_hours:check_date": "2019-01",
+    "phone": "+49 721 35409790",
+    "surveillance": "indoor",
+    "website": "http://www.loewen-apotheke-ka.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 996110520,
+  "lat": 49.0101854,
+  "lon": 8.3939005,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "156",
+    "addr:postcode": "76133",
+    "addr:street": "Kaiserstraße",
+    "amenity": "pharmacy",
+    "contact:website": "http://rug-apo.de/",
+    "level": "0",
+    "name": "Hauptpost Apotheke",
+    "network": "Rundum gesund Apotheken",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 10:00-17:00",
+    "operator": "Dr./VAK Moskau Dimitry Lisovoy",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1043623133,
+  "lat": 49.0081567,
+  "lon": 8.3944655
+},
+{
+  "type": "node",
+  "id": 1043623137,
+  "lat": 49.0080688,
+  "lon": 8.3947019
+},
+{
+  "type": "node",
+  "id": 1043623143,
+  "lat": 49.0082807,
+  "lon": 8.3946880
+},
+{
+  "type": "node",
+  "id": 1043623150,
+  "lat": 49.0080710,
+  "lon": 8.3946450
+},
+{
+  "type": "node",
+  "id": 1043623152,
+  "lat": 49.0081199,
+  "lon": 8.3945378
+},
+{
+  "type": "node",
+  "id": 1043623156,
+  "lat": 49.0081214,
+  "lon": 8.3945110
+},
+{
+  "type": "node",
+  "id": 1043623160,
+  "lat": 49.0082707,
+  "lon": 8.3947192
+},
+{
+  "type": "node",
+  "id": 1043623163,
+  "lat": 49.0080854,
+  "lon": 8.3946294
+},
+{
+  "type": "node",
+  "id": 1043623168,
+  "lat": 49.0082828,
+  "lon": 8.3946933
+},
+{
+  "type": "node",
+  "id": 1043623343,
+  "lat": 49.0081079,
+  "lon": 8.3945883
+},
+{
+  "type": "node",
+  "id": 1053693924,
+  "lat": 49.0056271,
+  "lon": 8.4110937,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "76137",
+    "addr:street": "Rüppurrer Straße",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 96 888 99",
+    "contact:website": "http://www.scheck-in-apotheke.de",
+    "dispensing": "yes",
+    "name": "Apotheke im Scheck-In-Center",
+    "network": "mea – meine apotheke",
+    "opening_hours": "Mo-Sa 08:00-22:00",
+    "surveillance": "indoor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1139854492,
+  "lat": 48.9559348,
+  "lon": 8.4688686
+},
+{
+  "type": "node",
+  "id": 1139854540,
+  "lat": 48.9558765,
+  "lon": 8.4687432
+},
+{
+  "type": "node",
+  "id": 1139854574,
+  "lat": 48.9559867,
+  "lon": 8.4688256
+},
+{
+  "type": "node",
+  "id": 1139854626,
+  "lat": 48.9559056,
+  "lon": 8.4688640
+},
+{
+  "type": "node",
+  "id": 1139854695,
+  "lat": 48.9559690,
+  "lon": 8.4688571
+},
+{
+  "type": "node",
+  "id": 1139854736,
+  "lat": 48.9558764,
+  "lon": 8.4688208
+},
+{
+  "type": "node",
+  "id": 1139854811,
+  "lat": 48.9558981,
+  "lon": 8.4687760
+},
+{
+  "type": "node",
+  "id": 1139854840,
+  "lat": 48.9559207,
+  "lon": 8.4686881
+},
+{
+  "type": "node",
+  "id": 1142258087,
+  "lat": 48.9558887,
+  "lon": 8.4687932
+},
+{
+  "type": "node",
+  "id": 1157547391,
+  "lat": 49.0019395,
+  "lon": 8.4153773,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "7",
+    "addr:postcode": "76137",
+    "addr:street": "Anna-Lauter-Straße",
+    "amenity": "pharmacy",
+    "name": "CentraVita Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00, 15:00-18:30;Sa 09:00-13:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1169773286,
+  "lat": 49.0027088,
+  "lon": 8.4036222
+},
+{
+  "type": "node",
+  "id": 1169773780,
+  "lat": 49.0026062,
+  "lon": 8.4036090
+},
+{
+  "type": "node",
+  "id": 1169774121,
+  "lat": 49.0027101,
+  "lon": 8.4035991
+},
+{
+  "type": "node",
+  "id": 1169774664,
+  "lat": 49.0025778,
+  "lon": 8.4036190
+},
+{
+  "type": "node",
+  "id": 1169774802,
+  "lat": 49.0027191,
+  "lon": 8.4034370
+},
+{
+  "type": "node",
+  "id": 1169774994,
+  "lat": 49.0025853,
+  "lon": 8.4034306
+},
+{
+  "type": "node",
+  "id": 1243553118,
+  "lat": 49.0092946,
+  "lon": 8.4084004
+},
+{
+  "type": "node",
+  "id": 1243553455,
+  "lat": 49.0092239,
+  "lon": 8.4082861
+},
+{
+  "type": "node",
+  "id": 1305923005,
+  "lat": 49.0099856,
+  "lon": 8.3987418,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "112",
+    "addr:postcode": "76133",
+    "addr:street": "Kaiserstraße",
+    "amenity": "pharmacy",
+    "contact:website": "http://www.zentral-apotheke.de/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Zentralapotheke",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 09:30-18:00",
+    "operator": "Dr. Thomas Döring",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1308072645,
+  "lat": 48.9816784,
+  "lon": 8.4056778,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Südstern Apotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 08:30-13:00,15:00-18:30, We,Sa 08:30-12:30; PH closed",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1383535855,
+  "lat": 48.9969494,
+  "lon": 8.3533189
+},
+{
+  "type": "node",
+  "id": 1383535858,
+  "lat": 48.9969524,
+  "lon": 8.3533105
+},
+{
+  "type": "node",
+  "id": 1383535862,
+  "lat": 48.9969580,
+  "lon": 8.3533151
+},
+{
+  "type": "node",
+  "id": 1383535876,
+  "lat": 48.9970033,
+  "lon": 8.3531882
+},
+{
+  "type": "node",
+  "id": 1424617575,
+  "lat": 49.0048374,
+  "lon": 8.4482141,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "111",
+    "addr:postcode": "76137",
+    "addr:street": "Durlacher Allee",
+    "addr:suburb": "Rintheim",
+    "amenity": "pharmacy",
+    "contact:email": "info@apo-karlsruhe.de",
+    "contact:fax": "+49 721 9610820",
+    "dispensing": "yes",
+    "lastcheck": "2018-04-03",
+    "level": "0",
+    "name": "Friesen-Apotheke",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+    "operator": "Karen Baumgart",
+    "phone": "+49 721 961080",
+    "website": "https://www.apo-karlsruhe.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1447726321,
+  "lat": 48.9992193,
+  "lon": 8.4732018,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "32",
+    "addr:postcode": "76227",
+    "addr:street": "Pfinztalstraße",
+    "amenity": "pharmacy",
+    "contact:fax": "+49 721 1838328",
+    "contact:phone": "+49 721 1838318",
+    "contact:website": "http://www.loewen-apotheke-durlach.de/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "lastcheck": "2016-11-13",
+    "name": "Löwenapotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-13:30",
+    "operator": "Rainer Lingg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1447726995,
+  "lat": 48.9995479,
+  "lon": 8.4757900,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "76227",
+    "addr:street": "Hengstplatz",
+    "amenity": "pharmacy",
+    "contact:email": "info@turmberg-apotheke.de",
+    "contact:phone": "+49 721 41980",
+    "contact:website": "http://www.apotheken.de/club/76227/turmberg-apotheke",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Turmberg-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00",
+    "operator": "Wolfgang Weber"
+  }
+},
+{
+  "type": "node",
+  "id": 1447845475,
+  "lat": 48.9998099,
+  "lon": 8.4650951,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "83",
+    "addr:postcode": "76227",
+    "addr:street": "Pfinztalstraße",
+    "amenity": "pharmacy",
+    "contact:email": "info@bahnhof-apotheke-durlach.com",
+    "contact:phone": "+49 721 41434",
+    "contact:website": "http://www.bahnhof-apotheke-durlach.com/",
+    "name": "Bahnhof-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-13:00",
+    "operator": "Andrea Ulsamer",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1531454721,
+  "lat": 49.0114097,
+  "lon": 8.3593335,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Apotheke Am Entenfang",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-14:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1838681008,
+  "lat": 49.0409769,
+  "lon": 8.2957932,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apotheke im Maximiliancenter",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1862615961,
+  "lat": 48.9751215,
+  "lon": 8.3112958
+},
+{
+  "type": "node",
+  "id": 1862615985,
+  "lat": 48.9750798,
+  "lon": 8.3114029
+},
+{
+  "type": "node",
+  "id": 1862615990,
+  "lat": 48.9751939,
+  "lon": 8.3113268
+},
+{
+  "type": "node",
+  "id": 1862615996,
+  "lat": 48.9751725,
+  "lon": 8.3114426
+},
+{
+  "type": "node",
+  "id": 1862616001,
+  "lat": 48.9751012,
+  "lon": 8.3112871
+},
+{
+  "type": "node",
+  "id": 2380032647,
+  "lat": 48.9969249,
+  "lon": 8.3532987,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2434035221,
+  "lat": 48.9968623,
+  "lon": 8.3532468
+},
+{
+  "type": "node",
+  "id": 2434035223,
+  "lat": 48.9969106,
+  "lon": 8.3531114
+},
+{
+  "type": "node",
+  "id": 2447214955,
+  "lat": 49.0785109,
+  "lon": 8.3886898
+},
+{
+  "type": "node",
+  "id": 2447214959,
+  "lat": 49.0785262,
+  "lon": 8.3887291
+},
+{
+  "type": "node",
+  "id": 2447214963,
+  "lat": 49.0785335,
+  "lon": 8.3887107
+},
+{
+  "type": "node",
+  "id": 2447214969,
+  "lat": 49.0785509,
+  "lon": 8.3887518
+},
+{
+  "type": "node",
+  "id": 2447214970,
+  "lat": 49.0785589,
+  "lon": 8.3887316
+},
+{
+  "type": "node",
+  "id": 2447214971,
+  "lat": 49.0785652,
+  "lon": 8.3885524
+},
+{
+  "type": "node",
+  "id": 2447214987,
+  "lat": 49.0786162,
+  "lon": 8.3887845
+},
+{
+  "type": "node",
+  "id": 2447214990,
+  "lat": 49.0786699,
+  "lon": 8.3886488
+},
+{
+  "type": "node",
+  "id": 2665210200,
+  "lat": 49.0091699,
+  "lon": 8.4083389
+},
+{
+  "type": "node",
+  "id": 2665210202,
+  "lat": 49.0092181,
+  "lon": 8.4084689
+},
+{
+  "type": "node",
+  "id": 2725518772,
+  "lat": 49.0559984,
+  "lon": 8.5224561,
+  "tags": {
+    "addr:city": "Weingarten (Baden)",
+    "addr:country": "DE",
+    "addr:housenumber": "125",
+    "addr:postcode": "76356",
+    "addr:street": "Bahnhofstraße",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "dispensing": "yes",
+    "name": "Bahnhof-Apotheke",
+    "opening_hours": "mo-tu 08:00-13:00,15:00-18:30;We 08:00-13:00;Th-Fr 08:00-13:00,15:00-18:30;Sa 08:00-12:30"
+  }
+},
+{
+  "type": "node",
+  "id": 2819425453,
+  "lat": 49.0665133,
+  "lon": 8.4706248,
+  "tags": {
+    "addr:city": "Stutensee",
+    "addr:country": "DE",
+    "addr:housenumber": "1c",
+    "addr:postcode": "76297",
+    "addr:street": "Rathausstraße",
+    "addr:suburb": "Blankenloch",
+    "amenity": "pharmacy",
+    "contact:email": "info@apoamrathaus-stutensee.de",
+    "contact:fax": "+49 7244 9476361",
+    "contact:phone": "+49 7244 9476360",
+    "contact:website": "http://www.apoamrathaus-stutensee-app.de/",
+    "dispensing": "yes",
+    "name": "Apotheke am Rathaus",
+    "opening_hours": "Mo-Fr 08:00-13:00, 14:30-18:30, Sa 08:30-12:30, Ph off",
+    "operator": "Iris Erdelmeier",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2925085201,
+  "lat": 48.9667823,
+  "lon": 8.3033809
+},
+{
+  "type": "node",
+  "id": 2925085210,
+  "lat": 48.9668245,
+  "lon": 8.3034146
+},
+{
+  "type": "node",
+  "id": 2925085212,
+  "lat": 48.9668373,
+  "lon": 8.3035492
+},
+{
+  "type": "node",
+  "id": 2925085214,
+  "lat": 48.9668415,
+  "lon": 8.3035540
+},
+{
+  "type": "node",
+  "id": 2925085217,
+  "lat": 48.9668585,
+  "lon": 8.3035191
+},
+{
+  "type": "node",
+  "id": 2925085219,
+  "lat": 48.9668727,
+  "lon": 8.3034691
+},
+{
+  "type": "node",
+  "id": 2951326229,
+  "lat": 48.9750893,
+  "lon": 8.3113513
+},
+{
+  "type": "node",
+  "id": 3090992932,
+  "lat": 49.0357782,
+  "lon": 8.4365021
+},
+{
+  "type": "node",
+  "id": 3090992933,
+  "lat": 49.0357935,
+  "lon": 8.4364001
+},
+{
+  "type": "node",
+  "id": 3090992949,
+  "lat": 49.0359125,
+  "lon": 8.4365489
+},
+{
+  "type": "node",
+  "id": 3090992950,
+  "lat": 49.0359277,
+  "lon": 8.4364469
+},
+{
+  "type": "node",
+  "id": 3175695179,
+  "lat": 49.0309927,
+  "lon": 8.3398149,
+  "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 567542",
+    "healthcare": "pharmacy",
+    "name": "Kreuz Apotheke",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3338239280,
+  "lat": 49.0022801,
+  "lon": 8.3940636,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "66",
+    "addr:postcode": "76137",
+    "addr:street": "Karlstraße",
+    "amenity": "pharmacy",
+    "contact:phone": "+49 721 818293",
+    "contact:website": "http://www.augustaapo.de/",
+    "dispensing": "yes",
+    "name": "Augusta-Apotheke",
+    "opening_hours": "Mo-Fr 09:00-19:00;Sa 09:00-13:00;PH off",
+    "operator": "Sema Dehmer e.K.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3338542156,
+  "lat": 49.0079711,
+  "lon": 8.4313638,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "74",
+    "addr:postcode": "76131",
+    "addr:street": "Tullastraße",
+    "amenity": "pharmacy",
+    "contact:email": "info@tullaapotheke.de",
+    "contact:fax": "+49 721 621940",
+    "contact:phone": "+49 721 615635",
+    "contact:website": "http://www.tullaapotheke.de/",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Tullaapotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-12:30; PH off",
+    "operator": "Carmen Rehbock",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3338573756,
+  "lat": 48.9930322,
+  "lon": 8.4603991,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "76227",
+    "addr:street": "Leußlerstraße",
+    "amenity": "pharmacy",
+    "contact:email": "loewen@rundumgesund-apotheken.de",
+    "contact:fax": "+49 721 494993",
+    "contact:phone": "+49 721 405405",
+    "contact:website": "http://www.loewen-apotheke-durlach.de",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Auerhahn Apotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30, Sa 08:30-13:00, Ph off",
+    "operator": "Dr. Rainer Lingg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3454699542,
+  "lat": 49.0092992,
+  "lon": 8.4082967
+},
+{
+  "type": "node",
+  "id": 3564355403,
+  "lat": 49.0080978,
+  "lon": 8.3946104
+},
+{
+  "type": "node",
+  "id": 3564355404,
+  "lat": 49.0081153,
+  "lon": 8.3945638
+},
+{
+  "type": "node",
+  "id": 3564355405,
+  "lat": 49.0082748,
+  "lon": 8.3947184
+},
+{
+  "type": "node",
+  "id": 3564355406,
+  "lat": 49.0082785,
+  "lon": 8.3947157
+},
+{
+  "type": "node",
+  "id": 3564355407,
+  "lat": 49.0082814,
+  "lon": 8.3947113
+},
+{
+  "type": "node",
+  "id": 3564355408,
+  "lat": 49.0082832,
+  "lon": 8.3947057
+},
+{
+  "type": "node",
+  "id": 3564355409,
+  "lat": 49.0082837,
+  "lon": 8.3946995
+},
+{
+  "type": "node",
+  "id": 4067576088,
+  "lat": 49.0052285,
+  "lon": 8.3985437,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "29",
+    "addr:postcode": "76133",
+    "addr:street": "Kriegsstraße",
+    "amenity": "pharmacy",
+    "name": "Apotheke am Nymphengarten",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5210819765,
+  "lat": 49.0174331,
+  "lon": 8.4431729,
+  "tags": {
+    "access:covid19": "yes",
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "76131",
+    "addr:street": "Brettener Straße",
+    "addr:suburb": "Rintheim",
+    "amenity": "pharmacy",
+    "check_date": "2018-07",
+    "contact:fax": "+49 721 615717",
+    "contact:phone": "+49 721 612656",
+    "contact:website": "http://www.minerva-apotheke.de",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Minerva-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-13:00,15:00-18:30; Sa 09:00-13:00; Su,PH off",
+    "opening_hours:covid19": "Mo-Fr 08:00-13:00,15:00-18:30; Sa 09:00-13:00",
+    "operator": "Dr. Thomas Döring",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "payment:debit_cards:min_payment": "10",
+    "phone": "+49 721 612656",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5214025149,
+  "lat": 49.0109800,
+  "lon": 8.3688563,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:housenumber": "113",
+    "addr:postcode": "76185",
+    "addr:street": "Kaiserallee",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Herder Apotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 08:30-13:00,15:00-18:30; We,Sa 08:30-13:00",
+    "phone": "+49 721 84 86 56",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5232970754,
+  "lat": 49.0509158,
+  "lon": 8.5243335,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "weingarten@via-apotheke.com",
+    "name": "Via Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:30-12:30",
+    "phone": "+49 7244 70770",
+    "website": "http://www.via-apotheke.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5503615907,
+  "lat": 49.0050057,
+  "lon": 8.3317170,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Falkenapotheke",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:30-18:30;Sa 08:00-13:00;PH closed",
+    "operator": "Anja Huthwelker",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 37032336,
+  "nodes": [
+    430672843,
+    2925085212,
+    2925085214,
+    2925085217,
+    430672845,
+    2925085219,
+    2925085210,
+    430672846,
+    2925085201,
+    430672847,
+    430672843
+  ],
+  "tags": {
+    "addr:city": "Rheinstetten",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "76287",
+    "addr:street": "Rösselsbrünnlestraße",
+    "amenity": "pharmacy",
+    "building": "apartments",
+    "building:levels": "2",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Rösselsbrünnle-Apotheke",
+    "opening_hours": "Mo,We,Fr 08:15-18:30; Tu,Th 08:15-19:15; Sa 08:15-12:45",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 43528911,
+  "nodes": [
+    549465026,
+    549465019,
+    549465022,
+    549465016,
+    549465026
+  ],
+  "tags": {
+    "addr:city": "Rheinstetten",
+    "addr:country": "DE",
+    "addr:housenumber": "23",
+    "addr:postcode": "76287",
+    "addr:street": "Rappenwörthstraße",
+    "amenity": "pharmacy",
+    "building": "apartments",
+    "building:levels": "2",
+    "healthcare": "pharmacy",
+    "name": "Blumen-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00",
+    "phone": "+49 7242 5555",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 90038309,
+  "nodes": [
+    1043623143,
+    1043623168,
+    3564355409,
+    3564355408,
+    3564355407,
+    3564355406,
+    3564355405,
+    1043623160,
+    1043623137,
+    1043623150,
+    1043623163,
+    3564355403,
+    1043623343,
+    3564355404,
+    1043623152,
+    1043623156,
+    1043623133,
+    1043623143
+  ],
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "18",
+    "addr:postcode": "76133",
+    "addr:street": "Karlstraße",
+    "amenity": "pharmacy",
+    "building": "retail",
+    "building:colour": "#CC9999",
+    "building:levels": "1",
+    "dispensing": "yes",
+    "name": "Karl-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00;Sa 09:00-14:00",
+    "operator": "Apotheker Christian Giese e.K.",
+    "roof:material": "concrete",
+    "roof:shape": "flat",
+    "source:geometry": "Maps4BW, LGL, www.lgl-bw.de",
+    "website": "http://karl-apotheke.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 98527577,
+  "nodes": [
+    1139854840,
+    1139854574,
+    1139854695,
+    1139854492,
+    1139854626,
+    1139854736,
+    1142258087,
+    1139854811,
+    1139854540,
+    1139854840
+  ],
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "94",
+    "addr:postcode": "76228",
+    "addr:street": "Am Wetterbach",
+    "addr:suburb": "Grünwettersbach",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "contact:fax": "+49 721 453286",
+    "contact:phone": "+49 721 450973",
+    "contact:website": "http://www.apotheke-gruenwettersbach.de/",
+    "dispensing": "yes",
+    "name": "Apotheke Grünwettersbach",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:30-13:00",
+    "operator": "Barbara Bliß-Stübel"
+  }
+},
+{
+  "type": "way",
+  "id": 101325635,
+  "nodes": [
+    1169774994,
+    1169774802,
+    1169774121,
+    1169773286,
+    1169773780,
+    1169774664,
+    1169774994
+  ],
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "76137",
+    "addr:street": "Ettlinger Straße",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "contact:email": "Bestellung@congress-apotheke.de",
+    "contact:fax": "+49 721 359258",
+    "contact:phone": "+49 721 356360",
+    "contact:website": "http://www.congress-apotheke.de",
+    "dispensing": "yes",
+    "name": "Congress-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 09:00-13:00; PH off",
+    "source": "LA-KA",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 124267176,
+  "nodes": [
+    2434035221,
+    2380032647,
+    1383535855,
+    1383535858,
+    1383535862,
+    1383535876,
+    2434035223,
+    2434035221
+  ],
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "76189",
+    "addr:street": "Bernsteinstraße",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "contact:email": "lukasapotheke-ka@t-online.de",
+    "contact:fax": "+49 721 50770",
+    "contact:phone": "+49 721 577273",
+    "contact:website": "http://www.apo-ka.de/?apo=21",
+    "name": "Lukas-Apotheke",
+    "opening_hours": "Mo,Tu,Th,Fr 08:30-12:30, 14:30-18:30; We 08:30-13:00; Sa 08:30-12:30",
+    "operator": "Armin Merkert-Ohlheiser",
+    "source:addr": "Maps4BW, LGL, www.lgl-bw.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 175696620,
+  "nodes": [
+    1862615996,
+    1862615990,
+    1862615961,
+    1862616001,
+    2951326229,
+    1862615985,
+    1862615996
+  ],
+  "tags": {
+    "addr:city": "Rheinstetten",
+    "addr:country": "DE",
+    "addr:housenumber": "24a",
+    "addr:postcode": "76287",
+    "addr:street": "Hauptstraße",
+    "addr:suburb": "Forchheim",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Föhrenapotheke",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-18:30; We,Sa 08:30-13:00",
+    "phone": "+49 721 510574",
+    "source": "Maps4BW, LGL, www.lgl-bw.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 236736638,
+  "nodes": [
+    2447214990,
+    2447214971,
+    2447214955,
+    2447214963,
+    2447214959,
+    2447214969,
+    2447214970,
+    2447214987,
+    2447214990
+  ],
+  "tags": {
+    "addr:city": "Eggenstein-Leopoldshafen",
+    "addr:country": "DE",
+    "addr:housenumber": "41",
+    "addr:postcode": "76344",
+    "addr:street": "Hauptstraße",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "contact:email": "post@flora-eggenstein.de",
+    "contact:fax": "+49 721 819664",
+    "contact:phone": "+49 721 786642",
+    "dispensing": "yes",
+    "name": "Flora-Apotheke",
+    "opening_hours": "Mo-Th 08:00-19:00; We,Fr 08:00-18:30; Sa 09:00-13:00",
+    "operator": "Elke Melchers",
+    "source": "Maps4BW",
+    "toilets:wheelchair": "no",
+    "website": "http://www.flora-eggenstein.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 304549323,
+  "nodes": [
+    3090992950,
+    3090992949,
+    3090992932,
+    3090992933,
+    3090992950
+  ],
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "23e",
+    "addr:postcode": "76139",
+    "addr:street": "Schneidemühler Straße",
+    "addr:suburb": "Waldstadt",
+    "amenity": "pharmacy",
+    "building": "commercial",
+    "name": "Vita-Apotheke",
+    "phone": "+49 721 9351893",
+    "source": "Maps4BW (LGL-BW, www.lgl-bw.de)"
+  }
+},
+{
+  "type": "way",
+  "id": 338391986,
+  "nodes": [
+    2665210200,
+    1243553455,
+    3454699542,
+    1243553118,
+    2665210202,
+    2665210200
+  ],
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "24",
+    "addr:postcode": "76133",
+    "addr:street": "Kronenstraße",
+    "amenity": "pharmacy",
+    "name": "Schlossapotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30;Sa 09:30-14:00;PH,Su off",
+    "website": "https://www.schlossapotheke-ka.de/",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}
